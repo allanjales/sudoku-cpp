@@ -6,7 +6,7 @@
 Coloque um arquivo com nome `sudoku-facil.txt` e execute o arquivo `sudoku-solver` através do seguinte comando no terminal:
 
 ```sh
-./ sudoku-solver
+./sudoku-solver
 ```
 
 ## Arquivos personalizados
@@ -20,9 +20,11 @@ g++ sudoku-solver.cpp -o sudoku-solver
 Você pode rodar o novo código também com:
 
 ```sh
-./ sudoku-solver
+./sudoku-solver
 ```
 
 ## Notas
 
 Embora haja uma variável chamada `writefile`, ela não é responsável pela criação de nenhum arquivo. Em outras palavras, ela é obsoleta.
+
+O código é incapaz de resolver sudokus muito complexos.
