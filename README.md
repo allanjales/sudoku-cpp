@@ -1,4 +1,4 @@
-# sudoku-cpp
+# Sudoku em C++
 > Código para resolver um sudoku em C++
 
 ## Como funciona
