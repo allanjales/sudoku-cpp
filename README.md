@@ -11,7 +11,7 @@ Coloque um arquivo com nome `sudoku-facil.txt` e execute o arquivo `sudoku-solve
 
 ## Arquivos personalizados
 
-Para colocar o arquivo com o nome que quiser basta abrir o código do arquivo `sudoku-solver.cpp` e localizar a variável `writefile` e substitui-la pela string que você quiser. Feito isso é necessário compilar com o seguinte comando:
+Para colocar o arquivo com o nome que quiser basta abrir o código do arquivo `sudoku-solver.cpp` e localizar a variável `readfile` e substitui-la pela string que você quiser. Feito isso, é necessário compilar com o seguinte comando:
 
 ```sh
 g++ sudoku-solver.cpp -o sudoku-solver
